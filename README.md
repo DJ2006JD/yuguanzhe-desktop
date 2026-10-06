@@ -33,12 +33,6 @@
 - 删除 `data/` 目录会重置游戏进度
 - 本版本为**单机版**，不与联网版互通
 
-## v1.6 更新内容
-
-- **修复「复活后登录不上」的严重 bug**：管理员复活殉职账号时账号实际未写回账号库。现已修复，复活后用**原密码**即可登录
-- 殉职时保留原密钥，复活后密钥不变，侵蚀度降至 50%
-- 资源版本统一升级，缓存更可靠
-
 ## 免责申明
 
 本项目为虚构模拟游戏，所有机构、编号、事件均为虚构设定，仅供娱乐，请勿当真。
@@ -63,12 +57,6 @@ No installation, no internet, no runtime required.
 |---|---|---|
 | YG-0001 | 123789 | Admin No.1 (top privilege) |
 | YG-0002 ~ YG-0007 | 666666 | Leadership accounts |
-
-## What's New in v1.6
-
-- **Fixed critical bug**: revived accounts could not log in (revival never wrote back to the registry). Now revived accounts log in with their **original password**
-- Death records preserve the original password; erosion reduced to 50% on revival
-- Unified asset versioning
 
 ## Disclaimer
 
